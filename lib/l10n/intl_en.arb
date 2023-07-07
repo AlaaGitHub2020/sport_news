@@ -1,0 +1,8 @@
+{
+  "@@locale": "en",
+  "noRoute": "No Route founded for : ",
+  "youAreOffline": "You’re offline",
+  "networkConnectionIsRequired": "A network connection is required to continue",
+  "unexpectedError": "Unexpected Error",
+  "fetchingNewsDataFailure": "Fetching News Data Failure"
+}
